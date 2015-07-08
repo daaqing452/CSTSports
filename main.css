@@ -1,0 +1,82 @@
+.JJbody {
+	background: -webkit-gradient(linear, 0 0, 0 500, from(#002b59), to(#ffffff));
+}
+
+.JJcontainer {
+	margin-left: auto;
+	margin-right: auto;
+	width: 1000px;
+	/*background-color: #ffffff;*/
+	/*border: solid 3px #000000;*/
+}
+
+.JJguidetag {
+	width: 200px;
+}
+
+.JJguideblank {
+	width: 29px;
+}
+
+.JJguidetext {
+	font-family: "微软雅黑";
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.JJleft {
+	float: left;
+	width: 200px;
+	/*border: solid 3px #000000;*/
+}
+
+.JJlabel {
+	margin-bottom: 20px;
+	padding: 5px;
+}
+
+.JJlabeltext {
+	font-family: "微软雅黑";
+	font-size: 20px;
+	/*font-weight: bold;*/
+}
+
+.JJright {
+	float: right;
+	width: 700px;
+	background-color: #ffffff;
+	padding: 25px;
+	/*border: solid 3px #000000;*/
+}
+
+.JJwryh {
+	font-family: "微软雅黑";
+}
+
+.JJrankblock {
+	margin-top: 50px;
+	width: 300px;
+	/*border: solid 3px #000000;*/
+}
+
+.JJrankblocktext {
+	margin: 40px;
+	text-align: center;
+	font-family: "微软雅黑";
+	font-size: 40px;
+	color: #ff0000;
+	/*border: solid 3px #000000;*/
+}
+
+.JJfrontpageright {
+	float: right;
+	width: 500px;
+	background-color: #ffffff;
+	padding: 20px;
+}
+
+.JJfrontpagetext {
+	font-size: 20px;
+	font-family: "微软雅黑";
+	color: #a80016;
+}
